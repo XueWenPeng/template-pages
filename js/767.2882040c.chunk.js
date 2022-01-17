@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmishuweb_tool=self.webpackChunkmishuweb_tool||[]).push([[767],{9767:function(e,t,u){u.r(t);var l=u(9301),n=u(6035);t.default=function(){return l.createElement("div",null,"Page2",l.createElement(n.OL,{to:"/template-pages/"},"home"))}}}]);
